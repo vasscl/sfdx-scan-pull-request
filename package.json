@@ -8,6 +8,6 @@
     "parse-diff": "^0.9.0",
     "path": "^0.12.7",
     "recursive-copy": "^2.0.14",
-    "sfdx-cli": "^7.161.0"
+    "sfdx-cli": "^7.194.1"
   }
 }
